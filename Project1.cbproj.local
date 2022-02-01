@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.384,=E:\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.362,E:\Project1PCH1.h=E:\Temp\test\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.925,E:\Unit1.dfm=E:\Temp\test\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.103,=E:\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.096,E:\Project1.cbproj=E:\Temp\test\Project1.cbproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.925,E:\Unit1.h=E:\Temp\test\Unit1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.925,E:\Unit1.cpp=E:\Temp\test\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
